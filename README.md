@@ -10,7 +10,7 @@
 
 <a href="https://personal-portfolio-ten-sigma-80.vercel.app"><b>Portfolio</b></a> ·
 <a href="https://www.linkedin.com/in/muzafer-shaikh-726a40338/"><b>LinkedIn</b></a> ·
-<a href="mailto:saeedmufar10@gmail.com"><b>Email</b></a> ·
+<a href="mailto:shaikhmuzafer10@gmail.com"><b>Email</b></a> ·
 <a href="https://github.com/muzafer26"><b>GitHub</b></a>
 
 </div>
@@ -177,44 +177,6 @@ My first real project working with an external API and handling data I didn't co
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muzafer26&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=3B5BDB&icon_color=3B5BDB&text_color=C9D1D9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafer26&layout=compact&hide_border=true&bg_color=0A0E1A&title_color=3B5BDB&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=muzafer26&hide_border=true&background=0A0E1A&stroke=3B5BDB&ring=3B5BDB&fire=3B5BDB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6A737D" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muzafer26&bg_color=0A0E1A&color=3B5BDB&line=3B5BDB&point=C9D1D9&area=true&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/muzafer26/muzafer26/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
-<details>
-<summary><b>Setup note: contribution snake</b></summary>
-<br/>
-
-Add the <a href="https://github.com/Platane/snk">Platane/snk</a> Action to this repo so the snake above renders and updates automatically:
-
-```yaml
-- uses: Platane/snk@v3
-  with:
-    github_user_name: muzafer26
-    outputs: dist/github-contribution-grid-snake.svg
-```
-
-</details>
-
-<br/>
-
 ## Journey
 
 ```
@@ -256,7 +218,7 @@ I learn best by building. Every project teaches me something, whether it's clean
 
 <a href="https://personal-portfolio-ten-sigma-80.vercel.app"><b>Portfolio</b></a> &nbsp;•&nbsp;
 <a href="https://www.linkedin.com/in/muzafer-shaikh-726a40338/"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-<a href="mailto:saeedmufar10@gmail.com"><b>saeedmufar10@gmail.com</b></a>
+<a href="mailto:shaikhmuzafer10@gmail.com"><b>shaikhmuzafer10@gmail.com</b></a>
 
 <br/><br/>
 
