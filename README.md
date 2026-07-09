@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:14213D,100:1E3A8A&height=230&section=header&text=MUZAFER%20SHAIKH&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Building%20software.%20Learning%20engineering.%20One%20project%20at%20a%20time.&descSize=17&descAlignY=56&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:14213D,100:1E3A8A&height=220&section=header&text=MUZAFER%20SHAIKH&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Learning%20by%20building%20real%20projects.&descSize=17&descAlignY=56&animation=fadeIn" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1000&color=3B5BDB&center=true&vCenter=true&width=640&lines=I+build+while+I+learn.;AI+accelerates+my+learning%2C+it+doesn't+replace+it.;Currently+shipping%3A+ScholarSync%2C+CodePanel+AI%2C+and+more." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1000&color=3B5BDB&center=true&vCenter=true&width=600&lines=Learning+by+building+real+projects.;Curious+about+software+engineering.;Trying+to+get+a+little+better+every+day." />
 </a>
 
 <br/>
@@ -25,17 +25,17 @@
 
 **Name** — Muzafer Shaikh
 **Based in** — Mumbai, India
-**Education** — Bachelor of Computer Applications (BCA)
-**College** — Thakur College of Engineering and Technology (TCET)
+**Education** — BCA, Thakur College of Engineering and Technology
 **CGPA** — 8.71 / 10
-**Status** — BCA Student
 
 </td>
 <td width="50%" valign="top">
 
-I build software and turn ideas into real products. I use AI as a serious development tool — directing it, verifying its output, and using it to move faster — while continuously strengthening my own programming and CS fundamentals underneath.
+I'm a BCA student who enjoys building software and figuring out how things work underneath.
 
-I'm still learning. I'm also already building and shipping. Both are true at once.
+Most of what I know comes from building projects, trying things out, and asking a lot of questions along the way. I use AI to explore ideas faster, debug code, and prototype features, but I try to actually understand what I'm building instead of just copying an answer.
+
+Right now I'm focused on getting better at programming fundamentals, one project at a time.
 
 </td>
 </tr>
@@ -43,69 +43,28 @@ I'm still learning. I'm also already building and shipping. Both are true at onc
 
 <br/>
 
-## What I'm Working Towards
+## A Few Things About Me
 
-- Building software that solves real problems
-- Strengthening computer science fundamentals — DSA, OS, Networks
-- Becoming fully confident across the modern web stack
-- Learning AI engineering responsibly, not just prompting
-
-<br/>
-
-## Interests
-
-`Software Engineering` · `AI Engineering` · `Product Design` · `Search Systems` · `Continuous Learning`
+- 💻 I enjoy turning ideas into projects and learning from the process
+- 📚 I'm currently focused on strengthening my programming fundamentals and computer science knowledge
+- 🤝 I like collaborating, asking questions, and improving through feedback
+- 🚀 My goal is to become a software engineer who understands not only how software is built, but why it works
 
 <br/>
 
 ## Experience
 
-Currently building personal and client-facing software projects across:
+Most of my experience comes from personal projects. Building them has taught me how to plan features, work with APIs, put together a decent interface, deploy something, and keep coming back to improve it later.
 
-- AI-assisted development workflows
-- Product design and UX
-- Modern web applications (Next.js / React)
-- Core software engineering practice
+Every project has taught me something a little different, and that's what keeps me building the next one.
 
 <br/>
 
-## Philosophy
+## Looking For
 
-```
-Technology should solve problems.
-Projects teach better than tutorials.
-AI is a learning accelerator, not a substitute for understanding.
+I'm looking for a **Software Engineering or Web Development internship** where I can learn from people who know more than me and work on real projects.
 
-Build while I learn.
-Not: learn, then someday build.
-```
-
-<br/>
-
-## My Journey
-
-```
-2024 ───── Started BCA at Thakur College of Engineering and Technology
-       ↓
-2025 ───── Built first real websites, learned HTML/CSS/JS deeply
-       ↓
-2025 ───── Started directing AI tools for real product development
-       ↓
-2026 ───── Shipped ScholarSync, CodePanel AI, and client projects
-       ↓
-2026 ───── Building Search Engine Relevancy
-       ↓
- Now ───── Deepening DSA, OS, and Computer Networks fundamentals
-```
-
-<br/>
-
-## Currently Building
-
-- 🔍 Search Engine Relevancy — search-ranking simulator
-- 📚 DSA Study Repository
-- 🧠 AI Engineering Notes
-- 🌐 Portfolio improvements
+I'm not looking for shortcuts — I'm looking for a place to grow.
 
 <br/>
 
@@ -117,11 +76,13 @@ Not: learn, then someday build.
 
 ### 🔍 Search Engine Relevancy
 
-An educational search-engine simulator that teaches how real search ranking works — search intent, relevance scoring, and ranking algorithms, made explorable rather than theoretical.
+An educational search-engine simulator that shows how search ranking actually works — search intent, relevance scoring, and ranking, made explorable instead of theoretical.
 
-`Search Intent` `Ranking` `Search Quality` `Relevance` `Algorithms`
+While building it, I started exploring how search systems think about relevance, ranking, and user intent instead of only focusing on the interface.
 
-**[Demo →](#)** &nbsp;·&nbsp; **[Code →](#)**
+`Search Intent` `Ranking` `Relevance` `Algorithms`
+
+🚧 Currently under active development.
 
 </td>
 </tr>
@@ -136,17 +97,17 @@ An educational search-engine simulator that teaches how real search ranking work
 <td width="50%" valign="top">
 
 **🧭 ScholarSync**
-Student opportunity platform — career roadmaps, curated resources, and an AI assistant.
-`Career Roadmaps` `Resources` `AI Assistance`
-**[Live →](https://scholar-sync-puce.vercel.app)**
+A student opportunity platform with career roadmaps and an AI assistant.
+Building ScholarSync taught me how to organize a larger project, work with multiple APIs, and think more about the user experience instead of individual pages.
+`AI Assistance` `Career Roadmaps`
 
 </td>
 <td width="50%" valign="top">
 
 **🛡️ CodePanel AI**
-AI-powered code review platform going beyond surface-level checks.
-`Security` `AST Analysis` `Privacy Analysis`
-**[Live →](https://codepanel-ai.vercel.app)**
+An AI-powered code review tool that looks past surface-level checks.
+This project introduced me to ideas like static analysis, security checks, and how AI can help developers review code more effectively.
+`Security` `AST Analysis`
 
 </td>
 </tr>
@@ -154,15 +115,17 @@ AI-powered code review platform going beyond surface-level checks.
 <td width="50%" valign="top">
 
 **🪐 Orbit Avanya**
-Modern UI/UX redesign focused on premium visual polish.
+A UI/UX redesign project focused on visual polish.
+This project gave me the chance to experiment with layout, animations, typography, and creating a cleaner user experience.
 `Animations` `Responsive Design`
 
 </td>
 <td width="50%" valign="top">
 
 **🎓 CampusOnBoard**
-College admission system with student and admin dashboards.
-`Dashboards` `CSV Upload` `Document Upload`
+A college admission system with separate student and admin dashboards.
+Working on this taught me how differently the same data needs to be presented depending on who's viewing it.
+`Dashboards` `CSV/Doc Upload`
 
 </td>
 </tr>
@@ -170,8 +133,9 @@ College admission system with student and admin dashboards.
 <td width="50%" valign="top">
 
 **🎬 MovieHub**
-Movie discovery platform built on the TMDB API.
-`TMDB API` `Watchlist` `Responsive Design`
+A movie discovery platform built on the TMDB API.
+My first real project working with an external API and handling data I didn't control myself.
+`TMDB API` `Watchlist`
 
 </td>
 <td width="50%" valign="top"></td>
@@ -180,26 +144,32 @@ Movie discovery platform built on the TMDB API.
 
 <br/>
 
-## Technologies I'm Exploring
+## Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nextjs,nodejs,express,java,python,supabase,vercel,figma,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nextjs,nodejs,express,java,supabase,vercel,figma,git,github,postman&theme=dark" />
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Comfortable with**
-`HTML` `CSS` `JavaScript` `Python (basics)` `Java (basics)` `SQL` `Git` `GitHub`
+**Comfortable With**
+`HTML` `CSS` `JavaScript` `SQL` `Git` `GitHub`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Exploring**
-`React` `TypeScript` `Tailwind CSS` `Next.js` `Node.js` `Express` `Supabase` `Vercel` `Figma`
+**Worked With**
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Express` `Supabase` `Vercel` `Figma` `Postman`
+
+</td>
+<td width="33%" valign="top">
+
+**Currently Learning**
+`Java` `Data Structures & Algorithms` `Operating Systems` `Computer Networks` `AI Engineering`
 
 </td>
 </tr>
@@ -207,17 +177,7 @@ Movie discovery platform built on the TMDB API.
 
 <br/>
 
-## Currently Learning
-
-<div align="center">
-
-`Data Structures` `Algorithms` `Operating Systems` `Computer Networks` `Software Engineering` `AI Engineering`
-
-</div>
-
-<br/>
-
-## GitHub Vitals
+## GitHub Analytics
 
 <div align="center">
 
@@ -232,24 +192,61 @@ Movie discovery platform built on the TMDB API.
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muzafer26&bg_color=0A0E1A&color=3B5BDB&line=3B5BDB&point=C9D1D9&area=true&hide_border=true" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/muzafer26/muzafer26/output/github-contribution-grid-snake.svg" width="100%" />
+
 </div>
 
 <details>
-<summary><b>Optional: GitHub Metrics (extra depth) — setup note</b></summary>
+<summary><b>Setup note: contribution snake</b></summary>
 <br/>
 
-For a deeper stats panel (recent activity, isometric contribution calendar, languages, etc.), add <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> as a GitHub Action in this repo — it generates its own SVG on a schedule and is more detailed than any single embeddable image.
+Add the <a href="https://github.com/Platane/snk">Platane/snk</a> Action to this repo so the snake above renders and updates automatically:
+
+```yaml
+- uses: Platane/snk@v3
+  with:
+    github_user_name: muzafer26
+    outputs: dist/github-contribution-grid-snake.svg
+```
 
 </details>
 
 <br/>
 
+## Journey
+
+```
+2024   Started BCA
+  ↓
+       Learned the basics of programming and web development
+  ↓
+       Started building personal projects
+  ↓
+       Started using AI as a tool while building
+  ↓
+       Built ScholarSync, CodePanel AI, Orbit Avanya, and more
+  ↓
+ Now   Working on DSA and software engineering fundamentals
+```
+
+<br/>
+
+## My Approach
+
+I don't think there's a point where someone just "knows everything" about software.
+
+I learn best by building. Every project teaches me something — cleaner code, a better interface, or a concept I hadn't looked at closely before. I use AI along the way, but understanding why something works is still the part I actually enjoy.
+
+<br/>
+
 ## Fun Facts
 
-- 🎮 Drawn to story-driven games as much as clean code
-- 🎬 Films are a genuine hobby, not a filler bullet point
-- 🕵️ Worked through CTF challenges under the flag format `SecLeaf{}`
-- 🧩 I'd rather understand *why* something works than just that it works
+- I like breaking big ideas into small, manageable projects
+- Story-driven games and movies are a big source of inspiration for me
+- I'd rather understand how something works than memorize it
+- I like improving one project over time instead of starting a new one every week
 
 <br/>
 
@@ -263,8 +260,7 @@ For a deeper stats panel (recent activity, isometric contribution calendar, lang
 
 <br/><br/>
 
-**Still learning. Still building. Still improving.**
-See you in the next commit.
+**Thanks for stopping by.** If any of my projects interest you, I'd love to hear your thoughts — or collaborate.
 
 <br/>
 
@@ -272,4 +268,4 @@ See you in the next commit.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0A0E1A&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0A0E1A&height=110&section=footer" />
