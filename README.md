@@ -23,10 +23,10 @@
 <tr>
 <td width="50%" valign="top">
 
-**Name** — Muzafer Shaikh
-**Based in** — Mumbai, India
-**Education** — BCA, Thakur College of Engineering and Technology
-**CGPA** — 8.71 / 10
+**Name:** Muzafer Shaikh
+**Based in:** Mumbai, India
+**Education:** BCA, Thakur College of Engineering and Technology
+**CGPA:** 8.71 / 10
 
 </td>
 <td width="50%" valign="top">
@@ -64,7 +64,7 @@ Every project has taught me something a little different, and that's what keeps 
 
 I'm looking for a **Software Engineering or Web Development internship** where I can learn from people who know more than me and work on real projects.
 
-I'm not looking for shortcuts — I'm looking for a place to grow.
+I'm not looking for shortcuts. I'm looking for a place to grow.
 
 <br/>
 
@@ -76,7 +76,7 @@ I'm not looking for shortcuts — I'm looking for a place to grow.
 
 ### 🔍 Search Engine Relevancy
 
-An educational search-engine simulator that shows how search ranking actually works — search intent, relevance scoring, and ranking, made explorable instead of theoretical.
+An educational search-engine simulator that shows how search ranking actually works, covering search intent, relevance scoring, and ranking, made explorable instead of theoretical.
 
 While building it, I started exploring how search systems think about relevance, ranking, and user intent instead of only focusing on the interface.
 
@@ -237,7 +237,7 @@ Add the <a href="https://github.com/Platane/snk">Platane/snk</a> Action to this 
 
 I don't think there's a point where someone just "knows everything" about software.
 
-I learn best by building. Every project teaches me something — cleaner code, a better interface, or a concept I hadn't looked at closely before. I use AI along the way, but understanding why something works is still the part I actually enjoy.
+I learn best by building. Every project teaches me something, whether it's cleaner code, a better interface, or a concept I hadn't looked at closely before. I use AI along the way, but understanding why something works is still the part I actually enjoy.
 
 <br/>
 
@@ -260,7 +260,7 @@ I learn best by building. Every project teaches me something — cleaner code, a
 
 <br/><br/>
 
-**Thanks for stopping by.** If any of my projects interest you, I'd love to hear your thoughts — or collaborate.
+**Thanks for stopping by.** If any of my projects interest you, I'd love to hear your thoughts, or collaborate.
 
 <br/>
 
