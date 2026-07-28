@@ -1,260 +1,128 @@
-<div align="center">
+<h1 align="center">
+Hi 👋 I'm Muzafer Shaikh
+</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:14213D,100:1E3A8A&height=220&section=header&text=MUZAFER%20SHAIKH&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Learning%20by%20building%20real%20projects.&descSize=17&descAlignY=56&animation=fadeIn" />
+<h3 align="center">
+Building software one project at a time.
+</h3>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1000&color=3B5BDB&center=true&vCenter=true&width=600&lines=Learning+by+building+real+projects.;Curious+about+software+engineering.;Trying+to+get+a+little+better+every+day." />
+<p align="center">
+BCA Student • Software Engineering Learner • Mumbai 🇮🇳
+</p>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Learning+by+Building+Projects;Java+%7C+JavaScript+%7C+React;Always+Curious+About+How+Things+Work;Looking+for+Software+Engineering+Internships" />
+
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4&text=Welcome%20to%20my%20GitHub&fontAlignY=35&fontColor=ffffff"/>
+👨‍💻 About Me
+
+I'm Muzafer, a Bachelor of Computer Applications (BCA) student from Mumbai.
+
+I enjoy building software because every project helps me understand how technology works beneath the surface.
+
+Rather than memorizing frameworks, I prefer learning the fundamentals first and then applying them by building real applications.
+
+Most of my projects started with curiosity:
+
+"What happens if I build this?"
+
+That curiosity has led me to explore frontend development, backend development, databases, APIs, deployment, and modern web technologies.
+
+Currently I'm focused on becoming a better software engineer through consistent learning and practical projects.
+
+Outside coding, I enjoy learning about system design, improving existing projects, watching movies, and exploring new technologies.
+## 🚀 Current Focus
+
+✔ Learning Java
+
+✔ Data Structures & Algorithms
+
+✔ Backend Development
+
+✔ Software Engineering Fundamentals
+
+✔ Operating Systems
+
+✔ Computer Networks
+
+✔ Building Better Projects
+
+✔ Looking for Software Engineering Internships
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,tailwind,mysql,supabase,git,github,vercel,figma,postman,java"/>
+
+</p>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=muzafer26"/>
+
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzafer26"/>
+📦 Search Engine Relevancy
+Search system with improved ranking and query handling.
+
+⚡ ScholarSync
+Platform that helps students discover structured learning paths.
+
+🧠 CodePanel AI
+AI-assisted developer workspace for experimenting with code.
+
+🌍 Orbit Avanya
+Travel-focused web experience.
+
+🎓 CampusOnBoard
+Student onboarding platform.
+
+🎬 MovieHub
+Movie discovery application using APIs.
+## 📚 Currently Learning
+
+Java
+
+Data Structures & Algorithms
+
+Operating Systems
+
+Computer Networks
+
+Software Engineering
+
+AI Engineering
+
+Improving project architecture
+## 💭 My Engineering Philosophy
+
+I believe good software isn't just about writing code.
+
+It's about understanding problems.
+
+Writing maintainable solutions.
+
+Learning continuously.
+
+Building consistently.
+
+Improving a little every day.
+
+I'd rather understand one concept deeply than memorize ten technologies.
+<p align="center">
+
+<a href="https://personal-portfolio-ten-sigma-80.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
-<br/>
-
-<a href="https://personal-portfolio-ten-sigma-80.vercel.app"><b>Portfolio</b></a> ·
-<a href="https://www.linkedin.com/in/muzafer-shaikh-726a40338/"><b>LinkedIn</b></a> ·
-<a href="mailto:shaikhmuzafer10@gmail.com"><b>Email</b></a> ·
-<a href="https://github.com/muzafer26"><b>GitHub</b></a>
-
-</div>
-
-<br/>
-
-## About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Name:** Muzafer Shaikh
-**Based in:** Mumbai, India
-**Education:** BCA, Thakur College of Engineering and Technology
-**CGPA:** 8.71 / 10
-
-</td>
-<td width="50%" valign="top">
-
-I'm a BCA student who enjoys building software and figuring out how things work underneath.
-
-Most of what I know comes from building projects, trying things out, and asking a lot of questions along the way. I use AI to explore ideas faster, debug code, and prototype features, but I try to actually understand what I'm building instead of just copying an answer.
-
-Right now I'm focused on getting better at programming fundamentals, one project at a time.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Current Focus
-
-- 💻 I enjoy turning ideas into projects and learning from the process
-- 📚 I'm currently focused on strengthening my programming fundamentals and computer science knowledge
-- 🤝 I like collaborating, asking questions, and improving through feedback
-- 🚀 My goal is to become a software engineer who understands not only how software is built, but why it works
-
-<br/>
-
-## Experience
-
-Most of my experience comes from personal projects. Building them has taught me how to plan features, work with APIs, put together a decent interface, deploy something, and keep coming back to improve it later.
-
-Every project has taught me something a little different, and that's what keeps me building the next one.
-
-<br/>
-
-## Looking For
-
-I'm looking for a **Software Engineering or Web Development internship** where I can learn from people who know more than me and work on real projects.
-
-I'm not looking for shortcuts. I'm looking for a place to grow.
-
-<br/>
-
-## Featured Project
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 🔍 Search Engine Relevancy
-
-An educational search-engine simulator that shows how search ranking actually works, covering search intent, relevance scoring, and ranking, made explorable instead of theoretical.
-
-While building it, I started exploring how search systems think about relevance, ranking, and user intent instead of only focusing on the interface.
-
-`Search Intent` `Ranking` `Relevance` `Algorithms`
-
-🚧 Currently under active development.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Other Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🧭 ScholarSync**
-A student opportunity platform with career roadmaps and an AI assistant.
-Building ScholarSync taught me how to organize a larger project, work with multiple APIs, and think more about the user experience instead of individual pages.
-`AI Assistance` `Career Roadmaps`
-
-</td>
-<td width="50%" valign="top">
-
-**🛡️ CodePanel AI**
-An AI-powered code review tool that looks past surface-level checks.
-This project introduced me to ideas like static analysis, security checks, and how AI can help developers review code more effectively.
-`Security` `AST Analysis`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🪐 Orbit Avanya**
-A UI/UX redesign project focused on visual polish.
-This project gave me the chance to experiment with layout, animations, typography, and creating a cleaner user experience.
-`Animations` `Responsive Design`
-
-</td>
-<td width="50%" valign="top">
-
-**🎓 CampusOnBoard**
-A college admission system with separate student and admin dashboards.
-Working on this taught me how differently the same data needs to be presented depending on who's viewing it.
-`Dashboards` `CSV/Doc Upload`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎬 MovieHub**
-A movie discovery platform built on the TMDB API.
-My first real project working with an external API and handling data I didn't control myself.
-`TMDB API` `Watchlist`
-
-</td>
-<td width="50%" valign="top"></td>
-</tr>
-</table>
-
-<br/>
-
-## Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nextjs,nodejs,express,java,supabase,vercel,figma,git,github,postman&theme=dark" />
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Comfortable With**
-`HTML` `CSS` `JavaScript` `SQL` `Git` `GitHub`
-
-</td>
-<td width="33%" valign="top">
-
-**Worked With**
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Express` `Supabase` `Vercel` `Figma` `Postman`
-
-</td>
-<td width="33%" valign="top">
-
-**Currently Learning**
-`Java` `Data Structures & Algorithms` `Operating Systems` `Computer Networks` `AI Engineering`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Journey
-
-```
-2024   Started BCA
-  ↓
-       Learned the basics of programming and web development
-  ↓
-       Started building personal projects
-  ↓
-       Started using AI as a tool while building
-  ↓
-       Built ScholarSync, CodePanel AI, Orbit Avanya, and more
-  ↓
- Now   Working on DSA and software engineering fundamentals
-```
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=muzafer26&hide_border=true&background=0A0E1A&stroke=3B5BDB&ring=1E3A8A&fire=3B5BDB&currStreakLabel=3B5BDB&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=3B5BDB&card_width=1180" alt="streak stats" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muzafer26&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=3B5BDB&icon_color=1E3A8A&text_color=94A3B8&bg_color=0A0E1A&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafer26&layout=compact&langs_count=8&hide_border=true&title_color=3B5BDB&text_color=94A3B8&bg_color=0A0E1A&card_width=500" alt="top langs" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muzafer26/muzafer26/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muzafer26/muzafer26/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/muzafer26/muzafer26/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-## My Approach
-
-I don't think there's a point where someone just "knows everything" about software.
-
-I learn best by building. Every project teaches me something, whether it's cleaner code, a better interface, or a concept I hadn't looked at closely before. I use AI along the way, but understanding why something works is still the part I actually enjoy.
-
-<br/>
-
-## Fun Facts
-
-- I like breaking big ideas into small, manageable projects
-- Story-driven games and movies are a big source of inspiration for me
-- I'd rather understand how something works than memorize it
-- I like improving one project over time instead of starting a new one every week
-
-<br/>
-
-## Contact
-
-<div align="center">
+<a href="https://github.com/muzafer26">
+<img src="https://img.shields.io/badge/GitHub-muzafer26-black?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/muzafer-shaikh-726a40338/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:shaikhmuzafer10@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A0E1A?style=for-the-badge&logo=gmail&logoColor=3B5BDB&labelColor=0A0E1A" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://personal-portfolio-ten-sigma-80.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0A0E1A?style=for-the-badge&logo=vercel&logoColor=3B5BDB&labelColor=0A0E1A" alt="Portfolio" />
+<img src="https://img.shields.io/badge/LinkedIn-Muzafer%20Shaikh-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<br/><br/>
+<a href="mailto:saeedmufar10@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-**Thanks for stopping by.** If any of my projects interest you, I'd love to hear your thoughts, or collaborate.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0A0E1A&height=110&section=footer" />
+</p>
